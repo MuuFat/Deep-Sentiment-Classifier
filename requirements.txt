@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+nltk
+gensim
+tensorflow==2.14.0
+keras
+torch
+transformers
+datasets
+matplotlib
+wordcloud
+shap
